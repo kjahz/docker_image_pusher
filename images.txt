@@ -1,1 +1,1 @@
-kuzudb/kuzu:latest
+kuzudb/kuzu:v2.18.0
