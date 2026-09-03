@@ -1,16 +1,1 @@
-nginx:alpine
-instrumentisto/flutter:3.35
-jitsi/jibri:unstable
-rocketchat/rocket.chat:latest
-vllm/vllm:latest
-paddlepaddle/paddleocr:latest
-paddlepaddle/paddle:latest
-commonvoice/common-voice:latest
-jplag/jplag:latest
-moodle/moodle:latest
-wikibase/wikibase:latest
-livekit/livekit-server:latest
-livekit/livekit-egress:latest
-livekit/livekit-ingress:latest
-livekit/livekit-sip:latest
 huggingface/transformers-pytorch-gpu:latest
