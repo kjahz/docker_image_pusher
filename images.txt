@@ -1,1 +1,1 @@
-huggingface/transformers-pytorch-gpu:latest
+barichello/godot-ci:4.3-stable
